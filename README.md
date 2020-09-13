@@ -5,19 +5,19 @@
 
 --> I am Lohith Munakala , currently a 3rd year student of Computer Science from IIIT Kalyani. I am an avid Kaggler and a Machine Learning Engineer. Have started doing fun stuff like contributing to Open Source. 
 
-- 🔭 I’m currently working on ***Image Processing*** and ***NLP*** 
+- 🔭 I’m currently working on ***Image Processing*** :camera: and ***NLP*** 
 
-- 🌱 I’m currently learning more about ***Attention Mechanisms***, ***Databases*** and ***GANS*** 
+- 🌱 I’m currently learning more about ***Attention Mechanisms***, :inbox_tray: ***Databases***  :outbox_tray: and ***GANS*** 
 
 - 👯 I’m looking to collaborate on ***Deep Learning Projects***
 
 - 💬 Ask me about ***Image Processing*** and ***Network Architechtures***
 
-- 📫 How to reach me: Reach me here on my email lohith_bt18@iiitkalyani.ac.in
+- 📫 How to reach me: Reach me here on my email :email: lohith_bt18@iiitkalyani.ac.in
 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him :man:
 
-- ⚡ Fun fact: I play the Guitar pretty well
+- ⚡ Fun fact: I play the Guitar :guitar: pretty well 
 
 #### You can also reach out to me here:
 - [Kaggle](https://www.kaggle.com/lohithmunakala)

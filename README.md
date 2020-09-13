@@ -5,7 +5,7 @@
 
 --> I am Lohith Munakala , currently a 3rd year student of Computer Science from IIIT Kalyani . I am an avid Kaggler and a Machine Learning Engineer. Have started doing fun stuff like contributing to Open Source.
 
-- 🔭 I’m currently working on ***Image Processing*** :camera: and ***NLP*** 
+- 🔭 I’m currently working on ***Image Processing*** :camera: and ***NLP*** :u6708:
 
 - 🌱 I’m currently learning more about ***Attention Mechanisms***, ***Databases*** :file_folder: and ***GANS*** 
 

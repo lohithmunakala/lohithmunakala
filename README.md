@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ***Image Processing*** :camera: and ***NLP*** :u6708:
 
-- 🌱 I’m currently learning more about ***Attention Mechanisms***, ***Databases*** :file_folder: and ***GANS*** 
+- 🌱 I’m currently learning  about ***Attention Mechanisms***, ***Databases*** :file_folder: and ***GANS*** 
 
 - 👯 I’m looking to collaborate on ***Deep Learning Projects***
 

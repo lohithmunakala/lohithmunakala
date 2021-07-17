@@ -3,7 +3,7 @@
 <!--
 **lohithmunakala/lohithmunakala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
---> I am Lohith Munakala , currently a 3rd year student of Computer Science from IIIT Kalyani . I am an avid Kaggler and a Machine Learning Engineer. Have started doing fun stuff like contributing to Open Source.
+--> I am Lohith Munakala , currently a final year student of Computer Science from IIIT Kalyani . I am an avid Kaggler and a Machine Learning Engineer. Have started doing fun stuff like contributing to Open Source.
 
 - 🔭 I’m currently working on ***Image Processing*** :camera: and ***NLP*** :u6708:
 

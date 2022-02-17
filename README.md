@@ -13,7 +13,7 @@
 
 - 💬 Ask me about ***Image Processing*** and ***Network Architechtures***
 
-- 📫 How to reach me: Reach me here on my email :email: lohith_bt18@iiitkalyani.ac.in
+- 📫 How to reach me: Reach me here on my email :email: lohithmunakala@gmail.com
 
 - 😄 Pronouns: he/him :man:
 
